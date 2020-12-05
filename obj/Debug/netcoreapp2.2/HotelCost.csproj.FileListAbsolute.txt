@@ -1,0 +1,11 @@
+/Users/taylordelph/Desktop/Epicodus/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.deps.json
+/Users/taylordelph/Desktop/Epicodus/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.runtimeconfig.json
+/Users/taylordelph/Desktop/Epicodus/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.runtimeconfig.dev.json
+/Users/taylordelph/Desktop/Epicodus/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.dll
+/Users/taylordelph/Desktop/Epicodus/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.pdb
+/Users/taylordelph/Desktop/Epicodus/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.csprojAssemblyReference.cache
+/Users/taylordelph/Desktop/Epicodus/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.csproj.CoreCompileInputs.cache
+/Users/taylordelph/Desktop/Epicodus/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.AssemblyInfoInputs.cache
+/Users/taylordelph/Desktop/Epicodus/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.AssemblyInfo.cs
+/Users/taylordelph/Desktop/Epicodus/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.dll
+/Users/taylordelph/Desktop/Epicodus/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.pdb
